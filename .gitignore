@@ -5,6 +5,9 @@
 ## Directory-based project format
 .idea/
 /*.iml
+.project
+.buildpath
+.settings/
 
 sitemap.xml
 cgi-bin

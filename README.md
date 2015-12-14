@@ -1,5 +1,7 @@
 # DotPlant2
 
+test.
+
 [DotPlant2](http://dotplant.ru/) - open-source E-Commerce CMS based on Yii Framework 2(yii2).
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/DevGroup-ru/dotplant2?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) - join chat and get free support(:ru: & :uk:)
